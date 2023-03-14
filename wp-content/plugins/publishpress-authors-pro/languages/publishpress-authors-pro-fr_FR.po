@@ -1,0 +1,2401 @@
+# Translation of Plugins - Co-Authors, Multiple Authors and Guest Authors in an Author Box with PublishPress Authors - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Co-Authors, Multiple Authors and Guest Authors in an Author Box with PublishPress Authors - Stable (latest release) package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Plugins - Co-Authors, Multiple Authors and Guest Authors "
+"in an Author Box with PublishPress Authors - Stable (latest release)\n"
+"POT-Creation-Date: 2022-11-21 09:48+0000\n"
+"PO-Revision-Date: 2023-01-16 09:56+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#: modules/author-custom-layouts/author-custom-layouts.php:215
+#: modules/author-custom-fields/author-custom-fields.php:152
+#, php-format
+msgid "%1$s Image"
+msgstr "Image %1$s"
+
+#: modules/author-custom-layouts/author-custom-layouts.php:208
+#: modules/author-custom-fields/author-custom-fields.php:145
+#, php-format
+msgid "%2$s"
+msgstr "%2$s"
+
+#: modules/author-custom-layouts/author-custom-layouts.php:221
+#: modules/author-custom-fields/author-custom-fields.php:158
+#, php-format
+msgid "%2$s list"
+msgstr "Liste des %2$s"
+
+#: modules/author-custom-layouts/author-custom-layouts.php:220
+#: modules/author-custom-fields/author-custom-fields.php:157
+#, php-format
+msgid "%2$s list navigation"
+msgstr "Navigation dans la liste des %2$s"
+
+#: modules/prosettings/prosettings.php:166
+msgid "Activated"
+msgstr "Activée"
+
+#: modules/shortcode-authors-list/shortcode-authors-list.php:57
+msgid "Add a shortcode for displaying list of authors"
+msgstr "Ajouter un code court pour l’affichage de la liste des auteurs"
+
+#: modules/automap-author/automap-author.php:52
+msgid "Add bulk action to automatically map authors to users"
+msgstr ""
+"Ajouter une action groupée pour assigner automatiquement les auteurs et "
+"autrices aux utilisateurs ou utilisatrices"
+
+#: modules/author-custom-layouts/author-custom-layouts.php:205
+#: modules/author-custom-fields/author-custom-fields.php:142
+#, php-format
+msgid "Add New %1$s"
+msgstr "Ajouter %1$s"
+
+#: modules/buddypress-integration/buddypress-integration.php:54
+msgid "Add support for BuddyPress profile links."
+msgstr "Ajoutez la prise en charge des liens de profil BuddyPress."
+
+#: modules/author-custom-fields/author-custom-fields.php:63
+#: modules/author-custom-fields/author-custom-fields.php:67
+msgid "Add support for custom fields in the author profiles."
+msgstr ""
+"Ajoutez la prise en charge des champs personnalisés dans les profils "
+"d’auteur et autrice."
+
+#: modules/author-custom-layouts/author-custom-layouts.php:69
+#: modules/author-custom-layouts/author-custom-layouts.php:73
+msgid "Add support for custom layouts in the author boxes."
+msgstr ""
+"Ajoutez la prise en charge des mises en page personnalisées dans les boîtes "
+"des auteurs et autrices."
+
+#: modules/author-custom-fields/author-custom-fields.php:131
+msgid "Author Field"
+msgstr "Champ d’auteur ou autrice"
+
+#: modules/author-custom-fields/author-custom-fields.php:62
+#: modules/author-custom-fields/author-custom-fields.php:132
+#: modules/author-custom-fields/author-custom-fields.php:190
+msgid "Author Fields"
+msgstr "Champs des auteurs ou autrices"
+
+#: modules/author-custom-layouts/author-custom-layouts.php:194
+#: modules/author-custom-layouts/author-custom-layouts.php:300
+msgid "Author Layout"
+msgstr "Mise en page de l’auteur ou autrice"
+
+#: modules/author-custom-layouts/author-custom-layouts.php:198
+#, php-format
+msgctxt "Author Layout post type name"
+msgid "%2$s"
+msgstr "%2$s"
+
+#: modules/author-custom-layouts/author-custom-layouts.php:276
+msgid "Author Layout published."
+msgstr "Mise en page de l’auteur ou autrice publiée."
+
+#: modules/author-custom-layouts/author-custom-layouts.php:277
+msgid "Author Layout saved."
+msgstr "Mise en page de l’auteur ou autrice enregistrée."
+
+#: modules/author-custom-layouts/author-custom-layouts.php:278
+msgid "Author Layout submitted."
+msgstr "Mise en page de l’auteur ou autrice envoyée."
+
+#: modules/author-custom-layouts/author-custom-layouts.php:274
+#: modules/author-custom-layouts/author-custom-layouts.php:275
+msgid "Author Layout updated."
+msgstr "Mise en page de l’auteur ou autrice mis à jour."
+
+#: modules/author-custom-layouts/author-custom-layouts.php:68
+#: modules/author-custom-layouts/author-custom-layouts.php:195
+#: modules/author-custom-layouts/author-custom-layouts.php:256
+#: modules/author-custom-layouts/author-custom-layouts.php:301
+msgid "Author Layouts"
+msgstr "Mises en page de l’auteur ou autrice"
+
+#: modules/author-custom-layouts/author-custom-layouts.php:520
+msgid "Author's metadata"
+msgstr "Métadonnées des auteurs et autrices"
+
+#: modules/author-custom-layouts/author-custom-layouts.php:522
+msgid "Author's user metadata"
+msgstr "Métadonnées de l’utilisateur ou utilisatrice des auteurs et autrices"
+
+#: modules/author-custom-layouts/author-custom-layouts.php:518
+msgid "Author's website URL"
+msgstr "URL du site de l’auteur ou autrice"
+
+#: modules/author-custom-layouts/author-custom-layouts.php:108
+msgid "Authors Index"
+msgstr "Index des auteurs et autrices"
+
+#: modules/author-custom-layouts/author-custom-layouts.php:109
+msgid "Authors Recent"
+msgstr "Auteurs et autrices récents"
+
+#: modules/automap-author/automap-author.php:51
+msgid "Auto map authors to users"
+msgstr ""
+"Affectation automatique des auteurs et autrices aux utilisateurs ou "
+"utilisatrices"
+
+#: modules/automap-author/automap-author.php:94
+msgid "Auto map guest authors to users by the slug"
+msgstr ""
+"Affectation automatique des auteurs et autrices invités aux utilisateurs ou "
+"utilisatrices par le slug"
+
+#: modules/author-custom-layouts/author-custom-layouts.php:103
+msgid "Boxed"
+msgstr "Encadré"
+
+#: modules/buddypress-integration/buddypress-integration.php:53
+msgid "BuddyPress Integration"
+msgstr "Intégration BuddyPress"
+
+#: modules/buddypress-integration/buddypress-integration.php:121
+msgid "BuddyPress Profile Link"
+msgstr "Lien du profil BuddyPress"
+
+#: modules/author-custom-layouts/author-custom-layouts.php:104
+msgid "Centered"
+msgstr "Centrée"
+
+#: modules/prosettings/prosettings.php:256
+#: modules/prosettings/prosettings.php:264
+msgid "Create default layouts"
+msgstr "Créer des mises en page par défaut"
+
+#: modules/author-custom-fields/author-custom-fields.php:233
+msgid "Custom Field"
+msgstr "Champ personnalisé"
+
+#: modules/author-custom-fields/author-custom-fields.php:151
+#, php-format
+msgctxt "custom field post type menu name"
+msgid "%2$s"
+msgstr "%2$s"
+
+#: modules/author-custom-fields/author-custom-fields.php:135
+#, php-format
+msgctxt "Custom Field post type name"
+msgid "%2$s"
+msgstr "%2$s"
+
+#: modules/author-custom-fields/author-custom-fields.php:209
+msgid "Custom Field published."
+msgstr "Champ personnalisé publié."
+
+#: modules/author-custom-fields/author-custom-fields.php:210
+msgid "Custom Field saved."
+msgstr "Champ personnalisé enregistré."
+
+#: modules/author-custom-fields/author-custom-fields.php:211
+msgid "Custom Field submitted."
+msgstr "Champ personnalisé envoyé."
+
+#: modules/author-custom-fields/author-custom-fields.php:207
+#: modules/author-custom-fields/author-custom-fields.php:208
+msgid "Custom Field updated."
+msgstr "Champ personnalisé mis à jour."
+
+#: modules/author-custom-fields/author-custom-fields.php:234
+msgid "Custom Fields"
+msgstr "Champs personnalisés"
+
+#: modules/author-custom-layouts/author-custom-layouts.php:214
+#, php-format
+msgctxt "custom layout post type menu name"
+msgid "%2$s"
+msgstr "%2$s"
+
+#: modules/author-custom-layouts/author-custom-layouts.php:514
+#: modules/author-custom-fields/author-custom-fields.php:317
+msgid "Description"
+msgstr "Description"
+
+#: modules/author-custom-layouts/author-custom-layouts.php:351
+#: modules/author-custom-fields/author-custom-fields.php:284
+msgid "Details"
+msgstr "Détails"
+
+#: modules/prosettings/prosettings.php:146
+msgid "Display PublishPress branding in the admin:"
+msgstr "Afficher la marque PublishPress dans l’administration :"
+
+#: modules/author-custom-layouts/author-custom-layouts.php:548
+msgid "documentation"
+msgstr "documentation"
+
+#: modules/author-custom-layouts/author-custom-layouts.php:206
+#: modules/author-custom-fields/author-custom-fields.php:143
+#, php-format
+msgid "Edit %1$s"
+msgstr "Modifier %1$s"
+
+#: modules/author-custom-layouts/author-custom-layouts.php:516
+msgid "Email address"
+msgstr "Adresse e-mail"
+
+#: modules/prosettings/prosettings.php:181
+msgid "Enter the license key for being able to update the plugin."
+msgstr "Saisissez la clé de licence pour pouvoir mettre à jour l’extension."
+
+#: core/Installer.php:284
+msgid "Facebook"
+msgstr "Facebook"
+
+#: modules/author-custom-fields/author-custom-fields.php:294
+msgid "Field Slug"
+msgstr "Slug du champ"
+
+#: modules/author-custom-fields/author-custom-fields.php:308
+msgid "Field Type"
+msgstr "Type de champ"
+
+#: modules/author-custom-fields/author-custom-fields.php:191
+msgid "Fields"
+msgstr "Champs"
+
+#: modules/author-custom-layouts/author-custom-layouts.php:219
+#: modules/author-custom-fields/author-custom-fields.php:156
+#, php-format
+msgid "Filter %2$s list"
+msgstr "Filtrer la liste des %2$s"
+
+#: modules/author-custom-layouts/author-custom-layouts.php:482
+msgid "Help"
+msgstr "Aide"
+
+#. Author URI of the plugin
+msgid "https://publishpress.com"
+msgstr "https://publishpress.com"
+
+#. URI of the plugin
+msgid "https://publishpress.com/"
+msgstr "https://publishpress.com/"
+
+#: modules/prosettings/prosettings.php:168
+msgid "Inactive"
+msgstr "Inactif"
+
+#: modules/author-custom-layouts/author-custom-layouts.php:105
+msgid "Inline"
+msgstr "En ligne"
+
+#: modules/author-custom-layouts/author-custom-layouts.php:106
+msgid "Inline with Avatars"
+msgstr "En ligne avec les avatars"
+
+#: core/Installer.php:300
+msgid "Instagram"
+msgstr "Instagram"
+
+#: modules/author-custom-layouts/author-custom-layouts.php:373
+msgid "Layout Code"
+msgstr "Code de mise en page"
+
+#: modules/author-custom-layouts/author-custom-layouts.php:361
+msgid "Layout Slug"
+msgstr "Slug de mise en page"
+
+#: modules/author-custom-layouts/author-custom-layouts.php:257
+msgid "Layouts"
+msgstr "Mises en page"
+
+#: modules/author-custom-layouts/author-custom-layouts.php:424
+msgid "Legacy"
+msgstr "Héritage"
+
+#: modules/prosettings/prosettings.php:138
+msgid "License key:"
+msgstr "Clé de licence :"
+
+#: core/Installer.php:308
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: modules/author-custom-layouts/author-custom-layouts.php:510
+#: modules/author-custom-layouts/author-custom-layouts.php:589
+msgid "Name"
+msgstr "Nom"
+
+#: modules/author-custom-layouts/author-custom-layouts.php:207
+#: modules/author-custom-fields/author-custom-fields.php:144
+#, php-format
+msgid "New %1$s"
+msgstr "Nouvelle %1$s"
+
+#: modules/author-custom-layouts/author-custom-layouts.php:204
+#: modules/author-custom-fields/author-custom-fields.php:141
+#, php-format
+msgid "New %1s"
+msgstr "Nouveau %1s"
+
+#: modules/author-custom-layouts/author-custom-layouts.php:211
+#: modules/author-custom-fields/author-custom-fields.php:148
+#, php-format
+msgid "No %2$s found"
+msgstr "Aucun %2$s trouvé"
+
+#: modules/author-custom-layouts/author-custom-layouts.php:212
+#: modules/author-custom-fields/author-custom-fields.php:149
+#, php-format
+msgid "No %2$s found in Trash"
+msgstr "Aucun %2$s trouvé dans la corbeille"
+
+#: core/Installer.php:288
+msgid "Please enter the full URL to your Facebook profile."
+msgstr "Veuillez saisir l'URL complet de votre profil Facebook."
+
+#: core/Installer.php:304
+msgid "Please enter the full URL to your Instagram page."
+msgstr "Veuillez saisir l'URL complet de votre page Instagram."
+
+#: core/Installer.php:312
+msgid "Please enter the full URL to your LinkedIn profile."
+msgstr "Veuillez saisir l'URL complet de votre profil LinkedIn."
+
+#: core/Installer.php:328
+msgid "Please enter the full URL to your TikTok profile."
+msgstr "Veuillez saisir l'URL complet de votre profil TikTok."
+
+#: core/Installer.php:296
+msgid "Please enter the full URL to your Twitter profile."
+msgstr "Veuillez saisir l'URL complet de votre profil Twitter."
+
+#: core/Installer.php:320
+msgid "Please enter the full URL to your YouTube channel."
+msgstr "Veuillez saisir l'URL complet de votre reseau YouTube."
+
+#: publishpress-authors-pro.php:104
+msgid ""
+"Please, deactivate and remove PublishPress Multiple Authors before using "
+"PublishPress Authors Pro."
+msgstr ""
+"Veuillez désactiver et supprimer PublishPress Multiple Authors avant "
+"d’utiliser PublishPress Authors Pro."
+
+#: modules/prosettings/prosettings.php:87
+msgid "Pro Settings"
+msgstr "Réglages Pro"
+
+#. Author of the plugin
+msgid "PublishPress"
+msgstr "PublishPress"
+
+#. Description of the plugin
+msgid ""
+"PublishPress Authors allows you to add multiple authors and guest authors to "
+"WordPress posts."
+msgstr ""
+"PublishPress Authors vous permet d’ajouter plusieurs auteurs ou autrices et "
+"auteurs ou autrices invités aux publications WordPress."
+
+#. Name of the plugin
+msgid "PublishPress Authors Pro"
+msgstr "PublishPress Authors Pro"
+
+#: modules/author-custom-layouts/author-custom-layouts.php:217
+#: modules/author-custom-fields/author-custom-fields.php:154
+#, php-format
+msgid "Remove %1$s Image"
+msgstr "Supprimer l’image %1$s"
+
+#: modules/author-custom-layouts/author-custom-layouts.php:210
+#: modules/author-custom-fields/author-custom-fields.php:147
+#, php-format
+msgid "Search %2$s"
+msgstr "Rechercher %2$s"
+
+#: modules/author-custom-layouts/author-custom-layouts.php:216
+#: modules/author-custom-fields/author-custom-fields.php:153
+#, php-format
+msgid "Set %1$s Image"
+msgstr "Définir l’image %1$s"
+
+#: modules/shortcode-authors-list/shortcode-authors-list.php:56
+msgid "Shortcode Authors List"
+msgstr "Code court liste des auteurs et autrices"
+
+#: modules/author-custom-layouts/author-custom-layouts.php:507
+msgid "Show author details:"
+msgstr "Afficher le détails de l’auteur ou autrice :"
+
+#: modules/author-custom-layouts/author-custom-layouts.php:538
+msgid "Show avatar:"
+msgstr "Afficher l’avatar :"
+
+#: modules/author-custom-layouts/author-custom-layouts.php:107
+msgid "Simple List"
+msgstr "Liste simple"
+
+#: modules/author-custom-layouts/author-custom-layouts.php:199
+#, php-format
+msgctxt "singular author layout post type name"
+msgid "%1$s"
+msgstr "%1$s"
+
+#: modules/author-custom-fields/author-custom-fields.php:136
+#, php-format
+msgctxt "singular custom field post type name"
+msgid "%1$s"
+msgstr "%1$s"
+
+#: modules/author-custom-fields/author-custom-fields.php:556
+msgid "Slug"
+msgstr "Slug"
+
+#: modules/prosettings/prosettings.php:177
+msgid "Status: "
+msgstr "États : "
+
+#. The param is a link for Twig documentation
+#: modules/author-custom-layouts/author-custom-layouts.php:497
+#, php-format
+msgid ""
+"The author layout accepts HTML and %s code. Javascript code is not accepted."
+msgstr ""
+"La mise en page de l’auteur ou autrice accepte le code HTML et %s. Le code "
+"Javascript n’est pas accepté."
+
+#: modules/author-custom-fields/author-custom-fields.php:297
+msgid ""
+"The slug allows only lowercase letters, numbers and underscore. It is used "
+"as an author's attribute when referencing the field in the custom layouts."
+msgstr ""
+"Le slug ne peut contenir que des lettres minuscules, des chiffres et des "
+"traits de soulignement. Il est utilisé comme attribut de l’auteur·ice lors "
+"de la référence au champ dans les mises en page personnalisées."
+
+#: modules/author-custom-layouts/author-custom-layouts.php:364
+msgid ""
+"The slug allows only lowercase letters, numbers and underscore. It is used "
+"for referencing the layout in shortcodes, hooks and functions."
+msgstr ""
+"Le slug ne peut contenir que des lettres minuscules, des chiffres et des "
+"traits de soulignement. Il est utilisé lors de la référence dans les mises "
+"en page, crochets et fonctions."
+
+#: modules/prosettings/prosettings.php:260
+msgid ""
+"This action creates the default custom layouts if they don't exist or were "
+"accidentally deleted."
+msgstr ""
+"Cette action crée les mises en page personnalisées par défaut si elles "
+"n’existent pas ou ont été accidentellement supprimées."
+
+#: modules/author-custom-fields/author-custom-fields.php:318
+msgid ""
+"This description appears under the fields and helps users understand their "
+"choice."
+msgstr ""
+"Cette description apparaît sous les champs et aide les utilisateurs et "
+"utilisatrices à comprendre leur choix."
+
+#: core/Installer.php:324
+msgid "TikTok"
+msgstr "TikTok"
+
+#: core/Installer.php:292
+msgid "Twitter"
+msgstr "Twitter"
+
+#: modules/author-custom-layouts/author-custom-layouts.php:512
+msgid "URL for the Author's page"
+msgstr "URL de la page d’auteur ou autrice"
+
+#: modules/author-custom-layouts/author-custom-layouts.php:218
+#: modules/author-custom-fields/author-custom-fields.php:155
+#, php-format
+msgid "Use as %1$s Image"
+msgstr "Utiliser comme image %1$s"
+
+#: modules/author-custom-layouts/author-custom-layouts.php:209
+#: modules/author-custom-fields/author-custom-fields.php:146
+#, php-format
+msgid "View %1$s"
+msgstr "Voir %1$s"
+
+#: publishpress-authors-pro.php:103
+msgid "Warning"
+msgstr "Avertissement"
+
+#: modules/author-custom-layouts/author-custom-layouts.php:374
+msgid "You can use Twig syntax here."
+msgstr "Vous pouvez utiliser la syntaxe Twig ici."
+
+#: core/Installer.php:316
+msgid "YouTube"
+msgstr "YouTube"
+
+#~ msgid "Published date"
+#~ msgstr "Date de publication"
+
+#~ msgid "Comment counts"
+#~ msgstr "Nombre de commentaires"
+
+#~ msgid "This will remove the Authors Box in \"Quick Edit\"."
+#~ msgstr "Cela supprimera la boîte des auteurs dans « Modification rapide »."
+
+#~ msgid ""
+#~ "This will allows you map a WordPress user to more than one author. Don't "
+#~ "use this feature unless requested to do so by the PublishPress team. This "
+#~ "plugin works better when authors and users are paired one-to-one."
+#~ msgstr ""
+#~ "Cela vous permettra d’associer un utilisateur ou une utilisatrice "
+#~ "WordPress à plusieurs auteurs et autrices. N’utilisez cette "
+#~ "fonctionnalité que si l’équipe PublishPress vous le demande. Cette "
+#~ "extension fonctionne mieux lorsque les auteurs et les utilisateurs et les "
+#~ "utilisatrices sont associés un à un."
+
+#~ msgid "Disable the \"Authors\" box when using \"Quick Edit\":"
+#~ msgstr ""
+#~ "Désactiver la case « Auteurs et autrices » lors de l’utilisation de "
+#~ "« Modification rapide » :"
+
+#~ msgid "Authors recent (Legacy)"
+#~ msgstr "Auteurs et autrices récents (héritage)"
+
+#~ msgid "Authors index (Legacy)"
+#~ msgstr "Index des auteurs et autrices (héritage)"
+
+#~ msgid "Simple list (Legacy)"
+#~ msgstr "Liste simple (héritage)"
+
+#~ msgid "Inline with avatar (Legacy)"
+#~ msgstr "En ligne avec l’avatar (héritage)"
+
+#~ msgid "Inline (Legacy)"
+#~ msgstr "En ligne (héritage)"
+
+#~ msgid "Centered (Legacy)"
+#~ msgstr "Centré (héritage)"
+
+#~ msgid "Enter class name without dot(.)"
+#~ msgstr "Saisissez le nom de la classe sans point (.)"
+
+#~ msgid "You can use multiple class names. Leave a space between each class."
+#~ msgstr ""
+#~ "Vous pouvez utiliser plusieurs noms de classe. Laissez un espace entre "
+#~ "chaque classe."
+
+#~ msgid "Layout Wrapper Class Name"
+#~ msgstr "Nom de la classe du conteneur de mise en page"
+
+#~ msgid "Add Custom CSS styles here..."
+#~ msgstr "Ajoutez les styles CSS personnalisés ici.."
+
+#~ msgid "Shadow spread"
+#~ msgstr "Propagation de l’ombre"
+
+#~ msgid "Shadow Blur"
+#~ msgstr "Flou de l’ombre"
+
+#~ msgid "Shadow Vertical Offset"
+#~ msgstr "Décalage vertical de l’ombre"
+
+#~ msgid "Shadow Horizontal Offset"
+#~ msgstr "Décalage horizontal de l’ombre"
+
+#~ msgid "Shadow Color"
+#~ msgstr "Couleur de l’ombre"
+
+#~ msgid "Background Color"
+#~ msgstr "Couleur d’arrière-plan"
+
+#~ msgid "Border radius (px)"
+#~ msgstr "Rayon de la bordure (px)"
+
+#~ msgid "Box Width (%)"
+#~ msgstr "Largeur de la boîte (%)"
+
+#~ msgid "Border color"
+#~ msgstr "Coluleur de la bordure"
+
+#~ msgid "Border Width (px)"
+#~ msgstr "Largeur de la bordure"
+
+#~ msgid "Padding Right"
+#~ msgstr "Marge interne droite"
+
+#~ msgid "Padding Left"
+#~ msgstr "Marge interne gauche"
+
+#~ msgid "Padding Bottom"
+#~ msgstr "Marge interne inférieure"
+
+#~ msgid "Padding Top"
+#~ msgstr "Marge interne supérieure"
+
+#~ msgid "Margin Right"
+#~ msgstr "Marge droite"
+
+#~ msgid "Margin Left"
+#~ msgstr "Marge gauche"
+
+#~ msgid "Margin Bottom"
+#~ msgstr "Marge inférieure"
+
+#~ msgid "Margin Top"
+#~ msgstr "Marge supérieure"
+
+#~ msgid "Icon Color"
+#~ msgstr "Couleur de l’icône"
+
+#~ msgid "Random"
+#~ msgstr "Aléatoire"
+
+#~ msgid "Number of comments"
+#~ msgstr "Nombre de commentaires"
+
+#~ msgid "ID"
+#~ msgstr "ID"
+
+#~ msgid "Modified date"
+#~ msgstr "Date de modification"
+
+#~ msgid "Date"
+#~ msgstr "Date"
+
+#~ msgid "Order By"
+#~ msgstr "Trier par"
+
+#~ msgid "Limit"
+#~ msgstr "Limite"
+
+#~ msgid "Recent Post Title Border Color"
+#~ msgstr "Couleur de la bordure du titre des publications récentes"
+
+#~ msgid "Recent Post Title Border Width"
+#~ msgstr "Largeur de la bordure du titre des publications récentes"
+
+#~ msgid "Recent Post Title Border Bottom Style"
+#~ msgstr "Style de la bordure inférieure du titre des publications récentes"
+
+#~ msgid "Recent Post Title Color"
+#~ msgstr "Couleur du titre des publications récentes"
+
+#~ msgid "Show Even if No Recent Post"
+#~ msgstr "Afficher même si il n’y a aucune publication récente"
+
+#~ msgid "Show Recent Title"
+#~ msgstr "Afficher le titre récent"
+
+#~ msgid "Show Recent Posts"
+#~ msgstr "Afficher les publications récentes"
+
+#~ msgid "Character Limit"
+#~ msgstr "Limite de caractères"
+
+#~ msgid "Show Author Bio"
+#~ msgstr "Afficher la biographie de l’auteur ou autrice"
+
+#~ msgid "Example, <span class=\"dashicons dashicons-admin-links\"></span>"
+#~ msgstr "Exemple, <span class=\"dashicons dashicons-admin-links\"></span>"
+
+#~ msgid "%1s Display Icon"
+#~ msgstr "Afficher l’icône du %1s"
+
+#~ msgid "%1s Display Suffix"
+#~ msgstr "Afficher le suffixe du %1s"
+
+#~ msgid "%1s Display Prefix"
+#~ msgstr "Afficher le préfixe du %1s"
+
+#~ msgid "Field Prefix + Value + Suffix"
+#~ msgstr "Champ préfixe + valeur + suffixe"
+
+#~ msgid "Field Icon"
+#~ msgstr "Champ icône"
+
+#~ msgid "Field Suffix"
+#~ msgstr "Champ suffixe"
+
+#~ msgid "Field Prefix"
+#~ msgstr "Champ préfixe"
+
+#~ msgid "Field Icon + Prefix + Value + Suffix"
+#~ msgstr "Champ icône + préfixe + valeur + suffixe"
+
+#~ msgid "%1s Display"
+#~ msgstr "Afficher %1s"
+
+#~ msgid ""
+#~ "This is useful when linking to an email, URL, or phone number. For "
+#~ "example, 'mailto:', 'https://' or 'tel:' can be added as the prefix."
+#~ msgstr ""
+#~ "C’est utile lorsque vous créez un lien vers une adresse e-mail, une URL "
+#~ "ou un numéro de téléphone. Par exemple, « mailto : », « https:// » ou "
+#~ "« tel : » peuvent être ajoutés comme préfixe."
+
+#~ msgid "%1s Value Prefix"
+#~ msgstr "Valeur préfixe %1s"
+
+#~ msgid "link"
+#~ msgstr "lien"
+
+#~ msgid ""
+#~ "'span' will display as an inline element and 'div' will display as a "
+#~ "block element. To make this display into a link, select 'link' and enter "
+#~ "the first part of the URL into the 'Prefix' field."
+#~ msgstr ""
+#~ "« span » s’affiche comme un élément en ligne et « div » s’affiche comme "
+#~ "un élément de bloc. Pour transformer cet affichage en un lien, "
+#~ "sélectionnez « lien » et saisissez la première partie de l’URL dans le "
+#~ "champ « Préfixe »."
+
+#~ msgid "Show %1s"
+#~ msgstr "Afficher %1s"
+
+#~ msgid "Meta Link Hover Color"
+#~ msgstr "Couleur du lien meta au survol"
+
+#~ msgid "Meta Background Color"
+#~ msgstr "Couleur d’arrière-plan meta"
+
+#~ msgid "Meta Color"
+#~ msgstr "Couleur meta"
+
+#~ msgid "Show site link"
+#~ msgstr "Afficher le lien du site"
+
+#~ msgid "Show email link"
+#~ msgstr "Afficher le lien de l’e-mail"
+
+#~ msgid "Show \"View all posts\" link"
+#~ msgstr "Afficher le lien « Voir tous les publications »"
+
+#~ msgid "Show Meta Information"
+#~ msgstr "Afficher les méta-informations"
+
+#~ msgid "Border Radius (%)"
+#~ msgstr "Rayon de la bordure (%)"
+
+#~ msgid "Border Color"
+#~ msgstr "Couleur de la bordure"
+
+#~ msgid "Border Width"
+#~ msgstr "Largeur de la bordure"
+
+#~ msgid "Outset"
+#~ msgstr "Biseau externe"
+
+#~ msgid "Inset"
+#~ msgstr "Biseau interne"
+
+#~ msgid "Ridge"
+#~ msgstr "Crête"
+
+#~ msgid "Groove"
+#~ msgstr "Rainure"
+
+#~ msgid "Double"
+#~ msgstr "Double"
+
+#~ msgid "Solid"
+#~ msgstr "Solide"
+
+#~ msgid "Dashed"
+#~ msgstr "Tirets"
+
+#~ msgid "Dotted"
+#~ msgstr "Pointillés"
+
+#~ msgid "None"
+#~ msgstr "Aucun"
+
+#~ msgid "Border Style"
+#~ msgstr "Styler de la bordure"
+
+#~ msgid "Avatar size (px)"
+#~ msgstr "Taille de l’avatar"
+
+#~ msgid "p"
+#~ msgstr "p"
+
+#~ msgid "span"
+#~ msgstr "span"
+
+#~ msgid "div"
+#~ msgstr "div"
+
+#~ msgid "HTML Tag"
+#~ msgstr "Balise HTML"
+
+#~ msgid "Color"
+#~ msgstr "Couleur"
+
+#~ msgid "Justify"
+#~ msgstr "Justifié"
+
+#~ msgid "Right"
+#~ msgstr "Droite"
+
+#~ msgid "Center"
+#~ msgstr "Centré"
+
+#~ msgid "Left"
+#~ msgstr "Gauche"
+
+#~ msgid "Alignment"
+#~ msgstr "Alignment"
+
+#~ msgid "Line Through"
+#~ msgstr "Barré"
+
+#~ msgid "Overline"
+#~ msgstr "Surligné"
+
+#~ msgid "Underline"
+#~ msgstr "Souligné"
+
+#~ msgid "Oblique"
+#~ msgstr "Oblique"
+
+#~ msgid "Italic"
+#~ msgstr "Italique"
+
+#~ msgid "Style"
+#~ msgstr "Style"
+
+#~ msgid "Capitalize"
+#~ msgstr "Capitaliser"
+
+#~ msgid "Lowercase"
+#~ msgstr "Minuscules"
+
+#~ msgid "Uppercase"
+#~ msgstr "Majuscules"
+
+#~ msgid "Transform"
+#~ msgstr "Transformer"
+
+#~ msgid "900 - Black"
+#~ msgstr "900 - Noir"
+
+#~ msgid "800 - Extra bold"
+#~ msgstr "800 - Extra gras"
+
+#~ msgid "700 - Bold"
+#~ msgstr "700 - Gras"
+
+#~ msgid "600 - Semi bold"
+#~ msgstr "600 - Semi gras"
+
+#~ msgid "500 - Medium"
+#~ msgstr "500 - Moyen"
+
+#~ msgid "400 - Normal"
+#~ msgstr "400 - Normal"
+
+#~ msgid "300 - Light"
+#~ msgstr "300 - Clair"
+
+#~ msgid "200 - Extra light"
+#~ msgstr "200 - Extra clair"
+
+#~ msgid "100 - Thin"
+#~ msgstr "100 - Fin"
+
+#~ msgid "Bold"
+#~ msgstr "Gras"
+
+#~ msgid "Normal"
+#~ msgstr "Normal"
+
+#~ msgid "Default"
+#~ msgstr "Par défaut"
+
+#~ msgid "Weight"
+#~ msgstr "Graisse"
+
+#~ msgid "Line Height (px)"
+#~ msgstr "Hauteur de ligne (px)"
+
+#~ msgid "Size"
+#~ msgstr "Taille"
+
+#~ msgid "Bottom space"
+#~ msgstr "Espace inférieur"
+
+#~ msgid "Title Text (Plural)"
+#~ msgstr "Texte du titre (au pluriel)"
+
+#~ msgid "Title Text (Single)"
+#~ msgstr "Texte du titre (au singulier)"
+
+#~ msgid "Show Title"
+#~ msgstr "Afficher le titre"
+
+#~ msgid "An error occured."
+#~ msgstr "Une erreur est survenue."
+
+#~ msgid "Template generated successfuly!"
+#~ msgstr "Le modèle a été généré correctement !"
+
+#~ msgid "Generate Template"
+#~ msgstr "Générer le modèle"
+
+#~ msgid "You can read more information on the %s."
+#~ msgstr "Vous pouvez lire plus d’informations sur le %s."
+
+#~ msgid ""
+#~ "Congratulations. Your can now choose your template inside the "
+#~ "PublishPress Authors Settings."
+#~ msgstr ""
+#~ "Félicitations. Vous pouvez maintenant choisir votre modèle dans les "
+#~ "réglages de PublishPress Authors."
+
+#~ msgid "Copy the generated code and paste it inside the newly created file."
+#~ msgstr "Copiez le code généré et collez-le dans le nouveau fichier créé."
+
+#~ msgid ""
+#~ "Create an empty php template file with your desired file slug in the %1s /"
+#~ "publishpress-authors/author-boxes/ %2s folder of your theme. %3s For "
+#~ "example, the file can be located here: %4s /wp-content/themes/%5syour-"
+#~ "theme-name%6s/publishpress-authors/author-boxes/my-first-custom-author-"
+#~ "template.php %7s ."
+#~ msgstr ""
+#~ "Créez un fichier de modèle php vide avec le nom du fichier souhaité dans "
+#~ "le dossier %1s /publishpress-authors/author-boxes/ %2s de votre thème. "
+#~ "%3s Par exemple, le fichier peut être situé ici : %4s /wp-content/themes/"
+#~ "%5syour-theme-name%6s/publishpress-authors/author-boxes/my-first-custom-"
+#~ "author-template.php %7s ."
+
+#~ msgid ""
+#~ "Click the \"Generate Template\" button under the text area. Wait for the "
+#~ "code to be generated."
+#~ msgstr ""
+#~ "Cliquez sur le bouton « Générer le modèle » sous la zone de texte. "
+#~ "Attendez que le code soit généré."
+
+#~ msgid "How to generate and use a theme template file"
+#~ msgstr "Comment générer et utiliser un fichier de modèle de thème"
+
+#~ msgid "Import Data"
+#~ msgstr "Importer les données"
+
+#~ msgid "Settings Imported Successfully!"
+#~ msgstr "Les réglages ont été importés correctement !"
+
+#~ msgid "Invalid data"
+#~ msgstr "Données invalides"
+
+#~ msgid "Paste the editor data from the \"Export\" tab on another site."
+#~ msgstr ""
+#~ "Collez les données de l’éditeur de l’onglet « Exporter » sur un autre "
+#~ "site."
+
+#~ msgid "Import Editor Settings"
+#~ msgstr "Importer les réglages de l’éditeur"
+
+#~ msgid "Copied to Clipboard!"
+#~ msgstr "Copié dans le presse-papiers !"
+
+#~ msgid "Copy to Clipboard"
+#~ msgstr "Copier dans le presse-papiers"
+
+#~ msgid ""
+#~ "You can use this data to export your author box design and import it to a "
+#~ "new site."
+#~ msgstr ""
+#~ "Vous pouvez utiliser ces données pour exporter le design de votre boîte "
+#~ "d’auteur ou autrice et l’importer sur un nouveau site."
+
+#~ msgid "Export Editor Settings"
+#~ msgstr "Exporter les réglages de l’éditeur"
+
+#~ msgid "No Recent Posts by this Author"
+#~ msgstr "Aucune publication récente de cet auteur ou autrice"
+
+#~ msgid "Recent Posts"
+#~ msgstr "Publications récentes"
+
+#~ msgid "Shortcode will only render for saved author box."
+#~ msgstr ""
+#~ "Le code court ne sera rendu que pour la boîte de l’auteur ou autrice "
+#~ "enregistré."
+
+#~ msgid "Generate Theme Template"
+#~ msgstr "Générer un modèle de thème"
+
+#~ msgid "Import"
+#~ msgstr "Importer"
+
+#~ msgid "Export"
+#~ msgstr "Exporter"
+
+#~ msgid "Custom CSS"
+#~ msgstr "CSS personnalisé"
+
+#~ msgid "Box Layout"
+#~ msgstr "Mise en page de la boîte"
+
+#~ msgid "Profile Fields"
+#~ msgstr "Champs du profil"
+
+#~ msgid "Meta"
+#~ msgstr "Meta"
+
+#~ msgid "Author Bio"
+#~ msgstr "Biographie de l’auteur ou autrice"
+
+#~ msgid "Avatar"
+#~ msgstr "Avatar"
+
+#~ msgid "Author Box Editor"
+#~ msgstr "Éditeur de boîtes d’auteur et autrice"
+
+#~ msgid "Author Box Preview"
+#~ msgstr "Aperçu de la boîte d’auteur"
+
+#~ msgid "Theme"
+#~ msgstr "Thème"
+
+#~ msgid "%1$s %2$s restored from the Trash."
+#~ msgid_plural "%1$s %3$s restored from the Trash."
+#~ msgstr[0] "%1$s %2$s restauré depuis la corbeille."
+#~ msgstr[1] "%1$s %3$s restaurés depuis la corbeille."
+
+#~ msgid "%1$s %2$s moved to the Trash."
+#~ msgid_plural "%1$s %3$s moved to the Trash."
+#~ msgstr[0] "%1$s %2$s a été mis à la corbeille."
+#~ msgstr[1] "%1$s %3$s ont été mis à la corbeille."
+
+#~ msgid "%1$s %2$s permanently deleted."
+#~ msgid_plural "%1$s %3$s permanently deleted."
+#~ msgstr[0] "%1$s %2$s a été supprimé définitivement."
+#~ msgstr[1] "%1$s %3$s ont été supprimés définitivement."
+
+#~ msgid "%1$s %2$s not updated, somebody is editing it."
+#~ msgid_plural "%1$s %3$s updated, somebody is editing them."
+#~ msgstr[0] ""
+#~ "%1$s %2$s n’est pas mis à jour, quelqu’un est en cours de le modifier."
+#~ msgstr[1] ""
+#~ "%1$s %3$s ne sont pas mis à jour, quelqu’un est en cours de les modifier."
+
+#~ msgid "%1$s %2$s updated."
+#~ msgid_plural "%1$s %3$s updated."
+#~ msgstr[0] "%1$s %2$s a été mis à jour."
+#~ msgstr[1] "%1$s %3$s ont été mis à jour."
+
+#~ msgid "Author Box added."
+#~ msgstr "Boîte d’auteur ajoutée."
+
+#~ msgctxt "Author Box post type name"
+#~ msgid "%2$s"
+#~ msgstr "%2$s"
+
+#~ msgid "Author Box"
+#~ msgstr "Boîte d’auteur"
+
+#~ msgid "Shortcode"
+#~ msgstr "Code court"
+
+#~ msgid "%s is the minimum version required for this plugin."
+#~ msgstr "%s est la version minimale nécessaire pour cette extension."
+
+#~ msgid "The active plugin %s is not compatible with your PHP version."
+#~ msgstr ""
+#~ "L’extension active %s n’est pas compatible avec votre version de PHP."
+
+#~ msgid "Remove single author map restriction:"
+#~ msgstr "Retirer la restriction d’association d’un seul auteur ou autrice :"
+
+#~ msgid "This will display author page title."
+#~ msgstr "Cela affichera le titre de la page de l’auteur ou autrice."
+
+#~ msgid "H6"
+#~ msgstr "H6"
+
+#~ msgid "H5"
+#~ msgstr "H5"
+
+#~ msgid "H4"
+#~ msgstr "H4"
+
+#~ msgid "H3"
+#~ msgstr "H3"
+
+#~ msgid "H2"
+#~ msgstr "H2"
+
+#~ msgid "H1"
+#~ msgstr "H1"
+
+#~ msgid ""
+#~ "To order the results based on post count, use %1s. To order the results "
+#~ "by name, use %2s. Alternatively, you can order by profile fields like "
+#~ "%3s, %4s etc"
+#~ msgstr ""
+#~ "Pour trier les résultats en fonction du nombre de publications, utilisez "
+#~ "%1s. Pour trier les résultats par nom, utilisez %2s. Vous pouvez "
+#~ "également trier les résultats par champs de profil comme %3s, %4s, etc"
+
+#~ msgid ""
+#~ "You can retrieve a specific author data by providing the author term id. "
+#~ "For example, this shortcode will load the author with term id of 102"
+#~ msgstr ""
+#~ "Vous pouvez extraire les données d’un auteur ou autrice spécifique en "
+#~ "fournissant l’id du terme de l’auteur ou autrice. Par exemple, ce code "
+#~ "court chargera l’auteur ou autrice avec l’id de terme de 102"
+
+#~ msgid "Featured image custom height:"
+#~ msgstr "Hauteur personnalisée de l’image mise en avant :"
+
+#~ msgid "Featured image custom width:"
+#~ msgstr "Largeur personnalisée de l’image mise en avant :"
+
+#~ msgid "Author post title header:"
+#~ msgstr "En-tête du titre de la publication de l’auteur ou autrice :"
+
+#~ msgid "Author pages title header:"
+#~ msgstr "En-tête de titre des pages de l’auteur ou autrice :"
+
+#~ msgid ""
+#~ "You can also show a dropdown menu that allows users to search on specific "
+#~ "author fields. You can add fields to the dropdown using %1s. This "
+#~ "requires the search box to be active."
+#~ msgstr ""
+#~ "Vous pouvez également afficher un menu déroulant qui permet aux "
+#~ "internautes d’effectuer une recherche sur des champs d’auteur et autrice "
+#~ "spécifiques. Vous pouvez ajouter des champs à la liste déroulante en "
+#~ "utilisant %1s. Pour cela, il faut que la boîte de recherche soit actif."
+
+#~ msgid "To display a search box for authors, use %1s."
+#~ msgstr ""
+#~ "Pour afficher un champ de recherche pour les auteurs et autrices, "
+#~ "utilisez %1s."
+
+#~ msgid "Search"
+#~ msgstr "Rechercher"
+
+#~ msgid "Search Box"
+#~ msgstr "Boîte de recherche"
+
+#~ msgid "Default Search"
+#~ msgstr "Recherche par défaut"
+
+#~ msgid "Author's search box field (Seperate multiple fields by comma(','))"
+#~ msgstr ""
+#~ "Champ de la boîte de recherche de l’auteur et autrice (séparez plusieurs "
+#~ "champs par une virgule (’,’))"
+
+#~ msgid "Enable author's search box"
+#~ msgstr "Activer la boîte de recherche de l’auteur et autrice"
+
+#~ msgid "To further customize the order of results, use %1s or %2s."
+#~ msgstr ""
+#~ "Pour personnaliser davantage le tri des résultats, utilisez %1s ou %2s."
+
+#~ msgid ""
+#~ "If you are using the authors_recent layout, you can define the number of "
+#~ "columns by using %1s."
+#~ msgstr ""
+#~ "Si vous utilisez la mise en page authors_recent, vous pouvez définir le "
+#~ "nombre de colonnes en utilisant %1s."
+
+#~ msgid ""
+#~ "You can limit the result to only guest authors by using %1s. %2s "
+#~ "Alternatively, %3s will show only authors with a WordPress account."
+#~ msgstr ""
+#~ "Vous pouvez limiter le résultat aux auteurs ou autrices invités en "
+#~ "utilisant %1s. %2s Alternativement, %3s ne montrera que les auteurs ou "
+#~ "autrices ayant un compte WordPress."
+
+#~ msgid ""
+#~ "You can limit the result to only authors who are assigned to posts by "
+#~ "using %1s. %2s Alternatively, use %3s to show all authors, including "
+#~ "those without any posts."
+#~ msgstr ""
+#~ "Vous pouvez limiter le résultat aux auteurs ou autrices qui sont assignés "
+#~ "à des publications en utilisant %1s. %2s Vous pouvez également utiliser "
+#~ "%3s pour afficher tous les auteurs et autrices, y compris ceux qui n’ont "
+#~ "pas de publications."
+
+#~ msgid ""
+#~ "You can choose the number of authors per page using %1s. %2s Pagination "
+#~ "will be automatically added if required."
+#~ msgstr ""
+#~ "Vous pouvez choisir le nombre d’auteurs ou autrices par page en utilisant "
+#~ "%1s. %2s La pagination sera automatiquement ajoutée si nécessaire."
+
+#~ msgid ""
+#~ "You can choose from the following default layouts: %1s %2s %3s %4s %5s. "
+#~ "You can see full details of each layout option %6s in this guide %7s. %8s "
+#~ "%9s This shortcode also provides two custom layouts: %10s %11s."
+#~ msgstr ""
+#~ "Vous pouvez choisir parmi les mises en page suivantes : %1s %2s %3s %4s "
+#~ "%5s. Vous pouvez consulter les détails complets de chaque option de mise "
+#~ "en page %6s dans ce guide %7s. %8s %9s Ce code court fournit également "
+#~ "deux mises en page personnalisées : %10s %11s."
+
+#~ msgid ""
+#~ "With this shortcode, you can show all the authors together in a single "
+#~ "display."
+#~ msgstr ""
+#~ "Avec ce code court, vous pouvez afficher tous les auteurs ensemble dans "
+#~ "un seul affichage."
+
+#~ msgid "%1sView all posts%2s by %3s"
+#~ msgstr "%1sVoir toutes les publications%2s de %3s"
+
+#~ msgid "No recent posts from this author"
+#~ msgstr "Aucune publication récente de cet auteur ou cette autrice"
+
+#~ msgid "Post Counts"
+#~ msgstr "Nombre de publications"
+
+#~ msgid "Descending"
+#~ msgstr "Décroissant"
+
+#~ msgid "Ascending"
+#~ msgstr "Croissant"
+
+#~ msgid "Users Authors"
+#~ msgstr "Utilisateurs auteurs et utilisatrices autrices"
+
+#~ msgid "Guest Authors"
+#~ msgstr "Auteurs et autrices invitées"
+
+#~ msgid "Order by"
+#~ msgstr "Trier par"
+
+#~ msgid "Order"
+#~ msgstr "Trier"
+
+#~ msgid "Limits per page"
+#~ msgstr "Limites par page"
+
+#~ msgid "Author Boxes"
+#~ msgstr "Boîtes d’auteurs et autrices"
+
+#~ msgid ""
+#~ "If you only have Guest Authors selected for a post, this user may be used "
+#~ "as a fallback. WordPress sometimes requires a WordPress user to be "
+#~ "assigned to each post. This user will not be visible on the front of your "
+#~ "site."
+#~ msgstr ""
+#~ "Si vous n’avez sélectionné que des auteurs ou autrices invités pour une "
+#~ "publication, cet utilisateur ou utilisatrice peut être utilisé comme "
+#~ "solution alternative. WordPress exige parfois qu’un utilisateur ou une "
+#~ "utilisatrice soit assigné à chaque publication. Cet utilisateur ou "
+#~ "utilisatrice ne sera pas visible sur l’interface publique de votre site."
+
+#~ msgid "Search for a fallback author"
+#~ msgstr "Rechercher un auteur alternatif ou autrice alternative"
+
+#~ msgid "Fallback user for Guest Authors:"
+#~ msgstr ""
+#~ "Utilisateur alternatif ou utilisatrice alternative pour les auteurs ou "
+#~ "autrices invités :"
+
+#~ msgid "Post not found for the author"
+#~ msgstr "Publication non trouvée pour l’auteur ou l’autrice"
+
+#~ msgid "Next"
+#~ msgstr "Suivant"
+
+#~ msgid "Prev"
+#~ msgstr "Précédent"
+
+#~ msgid "Author Pages"
+#~ msgstr "Pages des auteurs et autrices"
+
+#~ msgid "This will display the read more link."
+#~ msgstr "Cela affichera le lien « Lire la suite »."
+
+#~ msgid "This will display the tags."
+#~ msgstr "Cela affichera les étiquettes."
+
+#~ msgid "This will display the categories."
+#~ msgstr "Cela affichera les catégories."
+
+#~ msgid "This will display the comment count."
+#~ msgstr "Cela affichera le nombre de commentaires."
+
+#~ msgid "This will display the published date."
+#~ msgstr "Cela affichera la date de publication."
+
+#~ msgid "This will display the authors."
+#~ msgstr "Cela affichera les auteurs et les autrices."
+
+#~ msgid "This will display the excerpt."
+#~ msgstr "Cela affichera l’extrait."
+
+#~ msgid "This will display the featured image."
+#~ msgstr "Cela affichera l’image mise en avant."
+
+#~ msgid "This will display the author bio."
+#~ msgstr "Cela affichera la bio de l’auteur ou de l’autrice."
+
+#~ msgid "Grid"
+#~ msgstr "Grille"
+
+#~ msgid "List"
+#~ msgstr "Liste"
+
+#~ msgid ""
+#~ "If enabled, PublishPress Authors will replace the default WordPress "
+#~ "author pages."
+#~ msgstr ""
+#~ "Si elle est activée, PublishPress Authors remplacera les pages d’auteur "
+#~ "et autrices par défaut de WordPress."
+
+#~ msgid "Show read more link:"
+#~ msgstr "Afficher le lien lire la suite :"
+
+#~ msgid "Show tags:"
+#~ msgstr "Afficher les étiquettes :"
+
+#~ msgid "Show category:"
+#~ msgstr "Afficher les catégories :"
+
+#~ msgid "Show comment counts:"
+#~ msgstr "Afficher le nombre de commentaires :"
+
+#~ msgid "Show post date:"
+#~ msgstr "Afficher la date de publication :"
+
+#~ msgid "Show authors:"
+#~ msgstr "Afficher les auteurs et autrices :"
+
+#~ msgid "Show excerpt:"
+#~ msgstr "Afficher l’extrait :"
+
+#~ msgid "Show featured image:"
+#~ msgstr "Afficher l’image mise en avant :"
+
+#~ msgid "Show author bio:"
+#~ msgstr "Afficher la bio de l’auteur ou autrice :"
+
+#~ msgid "Grid layout column:"
+#~ msgstr "Colonne de mise en page de la grille :"
+
+#~ msgid "Author pages layout:"
+#~ msgstr "Mises en page des auteurs et autrices :"
+
+#~ msgid "Enable author pages:"
+#~ msgstr "Activer les pages d’auteur et autrices :"
+
+#~ msgid "Enable PublishPress Authors for these post types:"
+#~ msgstr "Activer PublishPress Authors pour ces types de publication :"
+
+#~ msgid "Read more."
+#~ msgstr "Lire la suite."
+
+#~ msgid ""
+#~ "You can also decide to return array lists of authors for custom use or "
+#~ "formatting by using %1s which will return all authors object data as "
+#~ "array. You can check full details and sample usage %2s in this guide %3s"
+#~ msgstr ""
+#~ "Vous pouvez également décider de générer des listes d’auteurs et autrices "
+#~ "sous forme de tableau pour une utilisation ou une mise en forme "
+#~ "personnalisée en utilisant %1s qui générera toutes les données de l’objet "
+#~ "auteur et autrice sous forme de tableau. Vous pouvez consulter tous les "
+#~ "détails et les exemples d’utilisation %2s dans ce guide %3s"
+
+#~ msgid ""
+#~ "If you are having problems showing PublishPress Authors on author profile "
+#~ "pages, you can use this shortcode below. The argument %s forces the "
+#~ "plugin to retrieve the Author from the profile page and not any other "
+#~ "posts on the same screen."
+#~ msgstr ""
+#~ "Si vous avez des problèmes pour afficher PublishPress Authors sur les "
+#~ "pages de profil des auteurs et autrices, vous pouvez utiliser ce code "
+#~ "court ci-dessous. L’argument %s force l’extension à récupérer l’auteur ou "
+#~ "l’autrice dans la page de profil et non dans les autres publications du "
+#~ "même écran."
+
+#~ msgid "Author name is required"
+#~ msgstr "Le nom de l’auteur ou autrice est obligatoire"
+
+#~ msgid "This will load Font Awesome icons for use in layouts."
+#~ msgstr ""
+#~ "Cela chargera les icônes Font Awesome à utiliser dans les mises en page."
+
+#~ msgid ""
+#~ "You can also specify the separator to be used for mulitple authors data."
+#~ msgstr ""
+#~ "Vous pouvez également spécifier le séparateur à utiliser pour les données "
+#~ "concernant plusieurs auteurs ou autrices."
+
+#~ msgid ""
+#~ "The authors data shortcode accepts field parameter such as: %1s %2s %3s "
+#~ "%4s %5s %6s %7s. You can see full details and parameters %8s in this "
+#~ "guide %9s."
+#~ msgstr ""
+#~ "Le code court des données d’auteurs et autrices accepte les paramètres de "
+#~ "champ tels que : %1s %2s %3s %4s %5s %6s %7s. Vous pouvez voir tous les "
+#~ "détails et les paramètres dans ce guide %9s."
+
+#~ msgid ""
+#~ "With this shortcode you can display the author names or any profile field "
+#~ "in any part of the content."
+#~ msgstr ""
+#~ "Avec le code court, vous pouvez afficher les noms des auteurs et autrices "
+#~ "ou tout autre champ de profil dans n’importe quelle partie du contenu."
+
+#~ msgid "Layout icons:"
+#~ msgstr "Les icônes de mise en page :"
+
+#~ msgid "Shortcodes"
+#~ msgstr "Codes courts"
+
+#~ msgid "Click To Copy!"
+#~ msgstr "Cliquez pour copier !"
+
+#~ msgid "Copied!"
+#~ msgstr "Copié !"
+
+#~ msgid ""
+#~ "There is one final option to mention. This is mostly useful if you're "
+#~ "using a theme or page builder to customize the Author profile pages you "
+#~ "find at URLs such as /author/username/. You can use the following "
+#~ "shortcode on the authors page to display the profile of the current "
+#~ "author. You just need to add the parameter %s."
+#~ msgstr ""
+#~ "Il y a une dernière option à mentionner. Elle est surtout utile si vous "
+#~ "utilisez un thème ou un constructeur de pages pour personnaliser les "
+#~ "pages de profil d’auteur/autrice que vous trouvez à des URL telles que /"
+#~ "author/username/. Vous pouvez utiliser le code court suivant sur la page "
+#~ "des auteurs/autrices pour afficher le profil de l’auteur/autrice actuel. "
+#~ "Il vous suffit d’ajouter le paramètre %s."
+
+#~ msgid ""
+#~ "You can load the authors for a specific post, even if you are not in that "
+#~ "post currently. For example, this shortcode will load the authors for the "
+#~ "post with the ID of 32"
+#~ msgstr ""
+#~ "Vous pouvez charger les auteurs/autrices d’une publication spécifique, "
+#~ "même si vous n’êtes pas dans cette publication actuellement. Par exemple, "
+#~ "ce code court affichera les auteurs/autrices de la publication dont l’ID "
+#~ "est 32"
+
+#~ msgid ""
+#~ "You can also decide whether or not to show the main title, using %1s or "
+#~ "%2s."
+#~ msgstr ""
+#~ "Vous pouvez également décider d’afficher ou non le titre principal, en "
+#~ "utilisant %1s ou %2s."
+
+#~ msgid ""
+#~ "You can choose from the following layouts: %1s %2s %3s %4s %5s. You can "
+#~ "see full details of each layout option %6s in this guide %7s."
+#~ msgstr ""
+#~ "Vous pouvez choisir parmi les mises en page suivantes : %1s %2s %3s %4s "
+#~ "%5s. Vous pouvez consulter les détails complets de chaque option de mise "
+#~ "en page %6s dans ce guide %7s."
+
+#~ msgid ""
+#~ "With this shortcode you can display the author box in any part of the "
+#~ "content. "
+#~ msgstr ""
+#~ "Avec le code court, vous pouvez afficher la boîte de l’auteur ou de "
+#~ "l’autrice dans n’importe quelle partie du contenu."
+
+#~ msgid "View"
+#~ msgstr "Voir"
+
+#~ msgid "Disable post author box display?"
+#~ msgstr ""
+#~ "Désactiver l’affichage de la boîte de l’auteur/autrice de la publication ?"
+
+#~ msgid "This plugin can be deleted."
+#~ msgstr "Cette extension peut être supprimée."
+
+#~ msgid "Author Profile"
+#~ msgstr "Profil de l’auteur/autrice"
+
+#~ msgid "This is the name that will show on the site."
+#~ msgstr "Il s’agit du nom qui apparaîtra sur le site."
+
+#~ msgid "Edit My Author Profile"
+#~ msgstr "Modifier mon profil d’auteur/autrice"
+
+#~ msgid "An author with the name provided already exists."
+#~ msgstr "Un compte avec le nom fourni existe déjà."
+
+#~ msgid "(Uses the %sauthor e-mail%s as Gravatar account)"
+#~ msgstr "(Utilisez le %sauthor e-mail%s comme compte Gravatar)"
+
+#~ msgid "Gravatar"
+#~ msgstr "Gravatar"
+
+#~ msgid "Avatar Source"
+#~ msgstr "Source de l’avatar"
+
+#~ msgid "Image"
+#~ msgstr "Image"
+
+#~ msgid "tab-link nav-tab"
+#~ msgstr "tab-lien nav-tab"
+
+#~ msgid "Another user with Author URL already exists."
+#~ msgstr "Un autre compte avec l’URL de l’auteur/autrice existe déjà."
+
+#~ msgid "Author URL cannot be empty."
+#~ msgstr "L’URL de l’auteur/autrice ne peut pas être vide."
+
+#~ msgid "This user is already mapped to another author."
+#~ msgstr "Ce compte est déjà associé à un autre auteur/autrice."
+
+#~ msgid "Security error. Kindly reload this page and try again"
+#~ msgstr "Erreur de sécurité. Veuillez recharger cette page et réessayer"
+
+#~ msgid "Request status."
+#~ msgstr "État de la demande."
+
+#~ msgid "Access denied"
+#~ msgstr "Accès refusé"
+
+#~ msgid "Invalid nonce"
+#~ msgstr "Nonce invalide"
+
+#~ msgid "Click here to install PublishPress Blocks"
+#~ msgstr "Cliquez ici pour installer PublishPress Blocks"
+
+#~ msgid ""
+#~ "PublishPress Blocks has over 20 extra Gutenberg blocks including "
+#~ "accordions, galleries, tables, and more."
+#~ msgstr ""
+#~ "PublishPress Blocks dispose de plus de 20 blocs Gutenberg "
+#~ "supplémentaires, notamment des accordéons, des galeries, des tableaux, "
+#~ "etc."
+
+#~ msgid ""
+#~ "Use the Content Display block to show your posts in many beautiful "
+#~ "layouts."
+#~ msgstr ""
+#~ "Utilisez le bloc d’affichage du contenu pour présenter vos publications "
+#~ "dans de nombreuses mises en page magnifiques."
+
+#~ msgid "Install this plugin to showcase content by your Authors."
+#~ msgstr ""
+#~ "Installez cette extension pour mettre en valeur le contenu de vos auteurs/"
+#~ "autrices."
+
+#~ msgid ""
+#~ "PublishPress Blocks is a free plugin with full support for PublishPress "
+#~ "Authors."
+#~ msgstr ""
+#~ "PublishPress Blocks est une extension gratuite avec une prise en charge "
+#~ "complète de PublishPress Authors."
+
+#~ msgid "Showcase your Authors with PublishPress Blocks"
+#~ msgstr "Mettez vos auteurs/autrices en valeur avec PublishPress Blocks"
+
+#~ msgid "Recommendations for you"
+#~ msgstr "Des recommandations pour vous"
+
+#~ msgid "View all posts"
+#~ msgstr "Voir toutes les publications"
+
+#~ msgid "Reviews"
+#~ msgstr "Avis"
+
+#~ msgid ""
+#~ "This setting may be disabled for users who can not edit others posts."
+#~ msgstr ""
+#~ "Ce réglage peut être désactivé pour les utilisateurs ou les utilisatrices "
+#~ "qui ne peuvent pas modifier les publications des autres."
+
+#~ msgid "\"post_author\" is empty"
+#~ msgstr "« post_author » est vide"
+
+#~ msgid "No author term"
+#~ msgstr "Aucun terme d’auteur ou d’autrice"
+
+#~ msgid "Polylang Integration"
+#~ msgstr "Intégration de Polylang"
+
+#~ msgid "Updated %d of %d posts..."
+#~ msgstr "Mise à jour de %d de %d publications…"
+
+#~ msgid "Updating author field on posts..."
+#~ msgstr "Mise à jour du champ auteur ou autrice sur les publications…"
+
+#~ msgid "Done! %d posts were updated."
+#~ msgstr "Terminé ! %d publications ont été mises à jour."
+
+#~ msgid "Updated %d of %d authors..."
+#~ msgstr "%d de %d auteurs/autrices a été mis à jour…"
+
+#~ msgid "Updating authors slug..."
+#~ msgstr "En cours de mettre à jour le slug des auteurs/autrices…"
+
+#~ msgid "Done! %d authors were updated."
+#~ msgstr "Terminé ! %d auteurs/autrices ont été mis à jour."
+
+#~ msgid "Finishing the process..."
+#~ msgstr "En cours de finaliser le processus…"
+
+#~ msgid "Collecting data..."
+#~ msgstr "Collecte des données…"
+
+#~ msgid "Sync Author slugs to User logins"
+#~ msgstr ""
+#~ "Synchronisation des slugs d’auteurs et d‘autrices avec les connexions des "
+#~ "comptes"
+
+#~ msgid "Copy Co-Authors Plus data"
+#~ msgstr "Copier les données de Co-Authors Plus"
+
+#~ msgid "Deactivate Co-Authors Plus"
+#~ msgstr "Désactiver Co-Auteurs Plus"
+
+#~ msgid "Done! Co-Authors Plus is deactivated."
+#~ msgstr "Terminé ! Co-Authors Plus a été désactivée."
+
+#~ msgid "Deactivating Co-uthors Plus..."
+#~ msgstr "En cours de désactiver Co-Authors Plus…"
+
+#~ msgid "Done! Co-Authors Plus data was copied."
+#~ msgstr "Terminé ! Les données de Co-Authors Plus ont été copiées."
+
+#~ msgid "Creating missed post authors..."
+#~ msgstr "Création d’auteurs/autrices de publications manquées…"
+
+#~ msgid "Deactivate Bylines"
+#~ msgstr "Désactiver Bylines"
+
+#~ msgid "Done! Bylines is deactivated."
+#~ msgstr "Terminé ! Bylines a été désactivée."
+
+#~ msgid "Deactivating Bylines..."
+#~ msgstr "Désactivation de Bylines…"
+
+#~ msgid "Done! Bylines data was copied and you can deactivate the plugin."
+#~ msgstr ""
+#~ "C’est terminé ! Les données de Bylines ont été copiées et vous pouvez "
+#~ "désactiver cette extension."
+
+#~ msgid "Deactivate Byline"
+#~ msgstr "Désactiver Byline"
+
+#~ msgid "Done! Byline is deactivated."
+#~ msgstr "Terminé ! Byline a été désactivée."
+
+#~ msgid "Deactivating Byline..."
+#~ msgstr "Désactivation de Byline…"
+
+#~ msgid "Copying authors' data..."
+#~ msgstr "Copie des données des auteurs et autrices…"
+
+#~ msgid "Done! Byline data was copied and you can deactivate the plugin."
+#~ msgstr ""
+#~ "C’est terminé ! Les données de Byline ont été copiées et vous pouvez "
+#~ "désactiver cette extension."
+
+#~ msgid "Error: "
+#~ msgstr "Erreur : "
+
+#~ msgid "Collecting data for the migration..."
+#~ msgstr "Collecte des données pour la migration…"
+
+#~ msgid "Create Author Profile"
+#~ msgstr "Créer le profil de l’auteur ou de l‘autrice"
+
+#~ msgid "Post types to display on the author's profile page:"
+#~ msgstr ""
+#~ "Types de publications à afficher sur la page de profil de l’auteur ou "
+#~ "autrice :"
+
+#~ msgid "All is set. No posts need to be updated"
+#~ msgstr "Tout est réglé. Aucun publication ne doit être mise à jour"
+
+#~ msgid "Adding the author term %d to the post %d"
+#~ msgstr "Ajout du terme auteur ou autrice %d à la publication %d"
+
+#~ msgid "Creating author term for the user %d"
+#~ msgstr "Création d’un terme d’auteur ou autrice pour le compte %d"
+
+#~ msgid "%d/%d: Inspecting the post %d"
+#~ msgstr "%d/%d : Inspection de la publication %d"
+
+#~ msgid "Now inspecting or updating %d total posts"
+#~ msgstr "En train d’inspecter ou de mettre à jour %d publications"
+
+#~ msgid "All is set. No author need to be updated"
+#~ msgstr ""
+#~ "Tout est réglé. Aucun auteur ou autrice n’a besoin d’être mis à jour"
+
+#~ msgid "%d/%d: Inspecting the user %d"
+#~ msgstr "%d/%d : Inspection du compte %d"
+
+#~ msgid "Now inspecting or updating %d total authors"
+#~ msgstr "En cours d’inspecter ou de mettre à jour %d total auteurs/autrices"
+
+#~ msgid "Search for an user"
+#~ msgstr "Rechercher un utilisateur ou une utilisatrice"
+
+#~ msgid ""
+#~ "This option is showing because you do not have a WordPress user selected "
+#~ "as an author. For some tasks, it can be helpful to have a user selected "
+#~ "here. This user will not be visible on the front of your site."
+#~ msgstr ""
+#~ "Cette option s’affiche parce que vous n’avez pas sélectionné un compte "
+#~ "WordPress comme auteur ou autrice. Pour certaines tâches, il peut être "
+#~ "utile d’avoir un utilisateur ou une utilisatrice sélectionné ici. Ce "
+#~ "compte ne sera pas visible sur l’interface publique de votre site."
+
+#~ msgid "%d posts were found without author terms"
+#~ msgstr ""
+#~ "%d publications ont été trouvées sans les termes de l’auteur ou de "
+#~ "l’autrice"
+
+#~ msgid "No posts without author terms were found"
+#~ msgstr "Aucun publication sans terme d’auteur ou d’autrice n’a été trouvé"
+
+#~ msgid "Upgrade to Pro"
+#~ msgstr "Passez à la version Pro"
+
+#~ msgid ""
+#~ "With PublishPress Authors Pro you can create custom fields for your "
+#~ "author profiles. You can add Text, WYSIWYG, Link, email fields and more."
+#~ msgstr ""
+#~ "Avec PublishPress Authors Pro, vous pouvez créer des champs personnalisés "
+#~ "pour vos profils d’auteur ou d’autrice. Vous pouvez ajouter des champs "
+#~ "texte, WYSIWYG, lien, e-mail et plus encore."
+
+#~ msgid "New Author Field"
+#~ msgstr "Nouveau champ d’auteur/autrice"
+
+#~ msgid "Pro Placeholders"
+#~ msgstr "Texte indicatif Pro"
+
+#~ msgid "Color scheme:"
+#~ msgstr "Jeu de couleurs :"
+
+#~ msgid "Add compatibility with the WPEngine object cache."
+#~ msgstr "Ajoutez la compatibilité avec le cache objet de WPEngine."
+
+#~ msgid "WPEngine Integration"
+#~ msgstr "Intégration de WPEngine"
+
+#~ msgid "Add compatibility with The SEO Framework plugin."
+#~ msgstr "Ajoutez la compatibilité avec l’extension The SEO Framework."
+
+#~ msgid "The SEO Framework Integration"
+#~ msgstr "Intégration de The SEO Framework"
+
+#~ msgid "Plural Title"
+#~ msgstr "Titre pluriel"
+
+#~ msgid "Single Title"
+#~ msgstr "Titre unique"
+
+#~ msgid "Plural"
+#~ msgstr "Pluriel"
+
+#~ msgid "Single"
+#~ msgstr "Unique"
+
+#~ msgid "Authors."
+#~ msgstr "Auteurs/autrices."
+
+#~ msgid "Rest API support"
+#~ msgstr "Prise en charge de l’API Rest"
+
+#~ msgid "Rest API"
+#~ msgstr "API Rest"
+
+#~ msgid "Add compatibility with the Edit Flow plugin"
+#~ msgstr "Ajoutez la compatibilité avec l’extension Edit Flow"
+
+#~ msgid "Edit Flow Integration"
+#~ msgstr "Intégration de Edit Flow"
+
+#~ msgid "Click to run the update now"
+#~ msgstr "Cliquez pour exécuter la mise à jour maintenant"
+
+#~ msgid ""
+#~ "PublishPress Authors needs a database update for Permissions integration."
+#~ msgstr ""
+#~ "PublishPress Authors a besoin d’une mise à jour de la base de données "
+#~ "pour l’intégration de droits."
+
+#~ msgid "Synchronize Author slugs to User logins"
+#~ msgstr ""
+#~ "Synchroniser les slugs des auteurs ou autrices avec les connexions des "
+#~ "utilisateurs ou utilisatrices"
+
+#~ msgid "Authors Debug"
+#~ msgstr "Débogage des auteurs ou autrices"
+
+#~ msgid "Add debug information for the plugin"
+#~ msgstr "Ajoutez des informations de débogage pour l’extension"
+
+#~ msgid "Debug"
+#~ msgstr "Débogage"
+
+#~ msgid "Are you sure you want to update the author slug for all the users?"
+#~ msgstr ""
+#~ "Confirmez-vous de vouloir mettre  à jour le slug de l’auteur/autrice pour "
+#~ "tous les utilisateurs/utilisatrices ?"
+
+#~ msgid "%s post by this author"
+#~ msgid_plural "%s posts by this author"
+#~ msgstr[0] "%s publication de cet auteur ou cette autrice"
+#~ msgstr[1] "%s publications de cet auteur ou cette autrice"
+
+#~ msgid "Published posts of the following post types: %s"
+#~ msgstr "Publications publiées des types de publication suivants : %s"
+
+#~ msgid "Update post count"
+#~ msgstr "Mettre à jour le nombre de publications"
+
+#~ msgid "Are you sure you want to update the author column for all the posts?"
+#~ msgstr ""
+#~ "Confirmez-vous de vouloir mettre à jour la colonne auteur/autrice pour "
+#~ "toutes les publications ?"
+
+#~ msgid "Add compatibility with the Ultimate Member plugin"
+#~ msgstr "Ajoutez la compatibilité avec l’extension Ultimate Member"
+
+#~ msgid "Ultimate Member Integration"
+#~ msgstr "Intégration de Ultimate Member"
+
+#~ msgid "Update author field on posts"
+#~ msgstr "Mettre à jour le champ auteur ou autrice sur les publications"
+
+#~ msgid "Default author for new posts:"
+#~ msgstr "Auteur ou autrice par défaut pour les nouvelles publications :"
+
+#~ msgid "Dismiss"
+#~ msgstr "Ignorer"
+
+#~ msgid "Please click here and read this guide!"
+#~ msgstr "Veuillez cliquer ici et lire ce guide !"
+
+#~ msgid "It looks like you have Co-Authors Plus installed."
+#~ msgstr "Il semble que vous ayez installé Co-Authors Plus."
+
+#~ msgid ""
+#~ "If the Author is mapped to a WordPress user, this will display the "
+#~ "authors' \"Display name\" and their \"Username\". The default is to show "
+#~ "only the \"Display name\". Showing the \"Username\" is useful if you have "
+#~ "several authors with similar names."
+#~ msgstr ""
+#~ "Si l’auteur ou l’autrice est associé à un compte WordPress, cela "
+#~ "affichera le « Nom affiché » et le « Nom du compte » de l’auteur ou de "
+#~ "l’autrice. Par défaut, seul le « Nom affiché » est affiché. L’affichage "
+#~ "du « Nom du compte » est utile si vous avez plusieurs auteurs ou autrices "
+#~ "avec des noms similaires."
+
+#~ msgid "Show username in the search field:"
+#~ msgstr ""
+#~ "Affichez l’identifiant de un utilisateur/une utilisatrice dans le champ "
+#~ "de recherche :"
+
+#~ msgid "Display All Authors (including those who have not written any posts)"
+#~ msgstr ""
+#~ "Afficher tous les auteurs/autrices (y compris ceux qui n’ont pas écrit "
+#~ "des publications)"
+
+#~ msgid "Display authors list."
+#~ msgstr "Affichez la liste des auteurs/autrices."
+
+#~ msgid "Post Author"
+#~ msgstr "Auteur/autrice de la publication"
+
+#~ msgid "https://wordpress.org/plugins/publishpress-authors/"
+#~ msgstr "https://wordpress.org/plugins/publishpress-authors/"
+
+#~ msgid "Add compatibility with the Divi Theme Builder"
+#~ msgstr "Ajouter la compatibilité avec Divi Theme Builder"
+
+#~ msgid "Divi Integration"
+#~ msgstr "Intégration Divi"
+
+#~ msgid "Cards - PublishPress Authors"
+#~ msgstr "Cartes - PublishPress Authors"
+
+#~ msgid "Full Content - PublishPress Authors"
+#~ msgstr "Contenu intégral - PublishPress Authors"
+
+#~ msgid "Classic - PublishPress Authors"
+#~ msgstr "Classique - PublishPress Authors"
+
+#~ msgid "Add compatibility with the Elementor and Elementor Pro page builder"
+#~ msgstr ""
+#~ "Ajout de la compatibilité avec le constructeur de pages Elementor et "
+#~ "Elementor Pro"
+
+#~ msgid "Elementor Integration"
+#~ msgstr "Intégration Elementor"
+
+#~ msgid "Add compatibility with the Genesis framework"
+#~ msgstr "Ajouter la compatibilité avec le framework Genesis"
+
+#~ msgid "Yoast SEO Integration"
+#~ msgstr "Intégration Yoast SEO"
+
+#~ msgid "Copy Byline Data"
+#~ msgstr "Copier les données de Byline"
+
+#~ msgid "Add migration option for Byline"
+#~ msgstr "Ajouter une option de migration pour Byline"
+
+#~ msgid "Migrate Byline Data"
+#~ msgstr "Migrer les données de Byline"
+
+#~ msgid "Copy Bylines Data"
+#~ msgstr "Copier les données de Bylines"
+
+#~ msgid "Add migration option for Bylines"
+#~ msgstr "Ajouter une option de migration pour Bylines"
+
+#~ msgid "Migrate Bylines Data"
+#~ msgstr "Migrer les données de Bylines"
+
+#~ msgid "Add compatibility with the Yoast SEO plugin"
+#~ msgstr "Ajoutez la compatibilité avec l’extension Yoast SEO"
+
+#~ msgid ", and "
+#~ msgstr ", et "
+
+#~ msgid "Posts by %1$s"
+#~ msgstr "Publications de %1$s"
+
+#~ msgid "Visit %s&#8217;s website"
+#~ msgstr "Visitez le site web de %s&#8217;s"
+
+#~ msgid "Posts by %s"
+#~ msgstr "Publications de %s"
+
+#~ msgid " and "
+#~ msgstr " et "
+
+#~ msgid "Spam it: %s"
+#~ msgstr "Indésirable : %s"
+
+#~ msgid "Delete it: %s"
+#~ msgstr "Supprimez-le : %s"
+
+#~ msgid "Trash it: %s"
+#~ msgstr "Mettez-le à la poubelle : %s"
+
+#~ msgid "Permalink: %s"
+#~ msgstr "Permalien : %s"
+
+#~ msgid "[%1$s] Pingback: \"%2$s\""
+#~ msgstr "[%1$s] Ping : « %2$s »"
+
+#~ msgid "You can see all pingbacks on this post here: "
+#~ msgstr "Vous pouvez voir tous les pings sur cette publication ici : "
+
+#~ msgid "New pingback on your post \"%s\""
+#~ msgstr "Nouveau ping sur votre publication « %s »."
+
+#~ msgid "[%1$s] Trackback: \"%2$s\""
+#~ msgstr "[%1$s] Rétrolien : « %2$s »"
+
+#~ msgid "You can see all trackbacks on this post here: "
+#~ msgstr "Vous pouvez voir tous les rétroliens sur cette publication ici : "
+
+#~ msgid "Excerpt: "
+#~ msgstr "Extrait : "
+
+#~ msgid "Website: %1$s (IP: %2$s , %3$s)"
+#~ msgstr "Site : %1$s (IP: %2$s , %3$s)"
+
+#~ msgid "New trackback on your post \"%s\""
+#~ msgstr "Nouveau rétrolien sur votre publication « %s »."
+
+#~ msgid "[%1$s] Comment: \"%2$s\""
+#~ msgstr "[%1$s] Commentaire : « %2$s »"
+
+#~ msgid "You can see all comments on this post here: "
+#~ msgstr "Vous pouvez voir tous les commentaires sur cette publication ici : "
+
+#~ msgid "Comment: "
+#~ msgstr "Commentaire : "
+
+#~ msgid "Whois  : http://whois.arin.net/rest/ip/%s"
+#~ msgstr "Whois  : http://whois.arin.net/rest/ip/%s"
+
+#~ msgid "URL    : %s"
+#~ msgstr "URL     : %s"
+
+#~ msgid "E-mail : %s"
+#~ msgstr "E-mail : %s"
+
+#~ msgid "Author : %1$s (IP: %2$s , %3$s)"
+#~ msgstr "Auteur/Autrice : %1$s (IP: %2$s , %3$s)"
+
+#~ msgid "New comment on your post \"%s\""
+#~ msgstr "Nouveau commentaire sur votre publication « %s »."
+
+#~ msgid "Default Layouts"
+#~ msgstr "Mises en page par défaut"
+
+#~ msgid "Enabled features"
+#~ msgstr "Fonctionnalités activées"
+
+#~ msgid "Feel free to select only the features you need."
+#~ msgstr ""
+#~ "N’hésitez pas à sélectionner uniquement les fonctionnalités dont vous "
+#~ "avez besoin."
+
+#~ msgid "Features"
+#~ msgstr "Fonctionnalités"
+
+#~ msgid "Authors Settings"
+#~ msgstr "Réglages des auteurs ou autrices"
+
+#~ msgid "Maintenance completed successfully."
+#~ msgstr "La maintenance a bien été terminé."
+
+#~ msgid "Error. Author terms could not be reseted."
+#~ msgstr ""
+#~ "Erreur. Les termes de l’auteur ou autrice n’ont pas pu être réinitialisés."
+
+#~ msgid ""
+#~ "This forms part of the URL for the author’s profile page. If you choose a "
+#~ "Mapped User, this URL is taken from the user’s account and can not be "
+#~ "changed."
+#~ msgstr ""
+#~ "Il s’agit d’une partie de l’URL de la page de profil de l’auteur ou de "
+#~ "l’autrice. Si vous choisissez un utilisateur ou une utilisatrice mappée, "
+#~ "cette URL provient du compte de l’utilisateur ou de l’utilisatrice et ne "
+#~ "peut être modifiée."
+
+#~ msgid "Maintenance"
+#~ msgstr "Maintenance"
+
+#~ msgid "General"
+#~ msgstr "Général"
+
+#~ msgid ""
+#~ "Please be careful clicking these buttons. Before clicking, we recommend "
+#~ "taking a site backup in case anything goes wrong."
+#~ msgstr ""
+#~ "Veuillez faire attention en cliquant sur ces boutons. Avant de cliquer, "
+#~ "nous vous recommandons de faire une sauvegarde du site au cas où quelque "
+#~ "chose ne fonctionnerait pas."
+
+#~ msgid "Delete all guest authors"
+#~ msgstr "Supprimer tous les auteurs ou autrices invitées"
+
+#~ msgid "Delete Guest Authors"
+#~ msgstr "Supprimer les auteurs ou autrices invitées"
+
+#~ msgid "Delete Mapped Authors"
+#~ msgstr ""
+#~ "Supprimer les auteurs ou autrices associées aux utilisateurs ou "
+#~ "utilisatrices"
+
+#~ msgid "Copy Co-Authors Plus Data"
+#~ msgstr "Copier les données de Co-Authors Plus"
+
+#~ msgid "Create missed authors from role"
+#~ msgstr "Créer les auteurs ou autrices manqués à partir du rôle"
+
+#~ msgid "Create missed post authors"
+#~ msgstr "Créer les auteurs ou autrices de publications manquées"
+
+#~ msgid "This will display the authors site in the author box."
+#~ msgstr ""
+#~ "Cela affichera le site de l’auteur ou autrice dans la boîte de l’auteur "
+#~ "ou de l’autrice."
+
+#~ msgid "This will display the authors email in the author box."
+#~ msgstr ""
+#~ "Cela affichera l’e-mail de l’auteur/autrice dans la boîte de l’auteur/"
+#~ "autrice."
+
+#~ msgid ""
+#~ "Author profiles can be mapped to WordPress user accounts. This option "
+#~ "allows you to automatically create author profiles when users are created "
+#~ "in these roles. You can also do this for existing users by clicking the "
+#~ "\"Create missed authors from role\" button in the Maintenance tab."
+#~ msgstr ""
+#~ "Les profils des auteurs ou autrices peuvent être associés à des comptes "
+#~ "WordPress. Cette option vous permet de créer automatiquement des profils "
+#~ "d’auteur ou d‘autrice lorsque des utilisateurs ou utilisatrices sont "
+#~ "créés dans ces rôles. Vous pouvez également le faire pour les comptes "
+#~ "existants en cliquant sur le bouton « Créer les auteurs ou les autrices "
+#~ "manqués à partir du rôle » dans l’onglet Maintenance."
+
+#~ msgid "This will display the authors box at the end of the content."
+#~ msgstr ""
+#~ "Cela permettra d’afficher la boîte des auteurs ou autrices à la fin du "
+#~ "contenu."
+
+#~ msgid "Show site link:"
+#~ msgstr "Afficher le lien du site :"
+
+#~ msgid "Show email link:"
+#~ msgstr "Afficher le lien e-mail :"
+
+#~ msgid "Layout:"
+#~ msgstr "Mise en page :"
+
+#~ msgid "Show below the content:"
+#~ msgstr "Afficher en dessous du contenu :"
+
+#~ msgid "Automatically create author profiles:"
+#~ msgstr "Créez automatiquement des profils d’auteur ou d’autrice :"
+
+#~ msgid ""
+#~ "Disabled because add_post_type_support('%1$s', '%2$s') is included in a "
+#~ "loaded file."
+#~ msgstr ""
+#~ "Désactivé car add_post_type_support (’%1$s’, ’%2$s’) est inclus dans un "
+#~ "fichier chargé."
+
+#~ msgid "Pages"
+#~ msgstr "Pages"
+
+#~ msgid "Posts"
+#~ msgstr "Publications"
+
+#~ msgid "There are no PublishPress modules registered"
+#~ msgstr "Aucun de modules PublishPress enregistrés"
+
+#~ msgid "Multiple Authors Settings"
+#~ msgstr "Réglages pour les auteurs/autrices multiples"
+
+#~ msgid "Mine"
+#~ msgstr "Les miens"
+
+#~ msgid "Sorry, the request returned an error."
+#~ msgstr "Désolé, la requête a retourné une erreur."
+
+#~ msgid "Please, wait..."
+#~ msgstr "Veuillez attendre…"
+
+#~ msgid "Are you sure you want to create authors for the selected roles?"
+#~ msgstr ""
+#~ "Confirmez-vous de vouloir créer des auteurs/autrices pour les rôles "
+#~ "sélectionnés ?"
+
+#~ msgid ""
+#~ "Are you sure you want to create author profiles for the missed post "
+#~ "authors?"
+#~ msgstr ""
+#~ "Confirmez-vous de vouloir créer des profils d’auteur/autrice pour les "
+#~ "auteurs/autrices des publications manquées ?"
+
+#~ msgid ""
+#~ "Are you sure you want to delete the guest authors profiles? This action "
+#~ "can't be undone."
+#~ msgstr ""
+#~ "Confirmez-vous de vouloir supprimer les profils des auteurs/autrices "
+#~ "invités ? Cette action ne peut pas être annulée."
+
+#~ msgid ""
+#~ "Are you sure you want to delete the authors profiles mapped to users? "
+#~ "This action can't be undone."
+#~ msgstr ""
+#~ "Confirmez-vous de vouloir supprimer les profils des auteurs/autrices "
+#~ "associés aux utilisateurs/utilisatrices ? Cette action ne peut pas être "
+#~ "annulée."
+
+#~ msgid ""
+#~ "Click on an author to change them. Drag to change their order. Click on "
+#~ "<strong>Remove</strong> to remove them."
+#~ msgstr ""
+#~ "Cliquez sur un auteur ou une autrice pour les modifier. Glissez pour "
+#~ "changer leur ordre. Cliquez sur <strong>Supprimer</strong> pour les "
+#~ "supprimer."
+
+#~ msgid "Click to change this author, or drag to change their position"
+#~ msgstr ""
+#~ "Cliquez pour changer cet auteur ou autrice, ou glissez pour changer sa "
+#~ "position"
+
+#~ msgid "Are you sure you want to remove this author?"
+#~ msgstr "Confirmez-vous de vouloir supprimer cet auteur ou autrice ?"
+
+#~ msgid "Edit"
+#~ msgstr "Modifier"
+
+#~ msgid "No co-author exists for that term"
+#~ msgstr "Aucun co-auteur ou co-autrice n’existe pour ce terme"
+
+#~ msgid "Click on an author to change them. Drag to change their order."
+#~ msgstr ""
+#~ "Cliquez sur un auteur ou une autrice pour les modifier. Faites glisser "
+#~ "pour changer leur ordre."
+
+#~ msgid "If you like %s please leave us a %s rating. Thank you!"
+#~ msgstr "Si vous appréciez %s, veuillez nous laisser une note de %s. Merci !"
+
+#~ msgid "Back to Authors"
+#~ msgstr "Retour aux auteurs et autrices"
+
+#~ msgid "Author"
+#~ msgstr "Auteur/Autrice"
+
+#~ msgid "No authors found."
+#~ msgstr "Aucun auteur ou autrice n’a été trouvée."
+
+#~ msgid "Choose from the most used Authors"
+#~ msgstr "Choisissez parmi les auteurs et autrices les plus utilisés"
+
+#~ msgid "Add or remove authors"
+#~ msgstr "Ajouter ou supprimer des auteurs ou autrices"
+
+#~ msgid "Separate authors with commas"
+#~ msgstr "Séparez les auteurs et autrices par des virgules"
+
+#~ msgid "New Author"
+#~ msgstr "Nouveau auteur/autrice"
+
+#~ msgid "Update Author"
+#~ msgstr "Mise à jour de l’auteur/autrice"
+
+#~ msgid "View Author"
+#~ msgstr "Voir l’auteur/autrice"
+
+#~ msgid "Parent Author:"
+#~ msgstr "Auteur/autrice principal :"
+
+#~ msgid "Parent Author"
+#~ msgstr "Auteur/autrice principal"
+
+#~ msgid "All Authors"
+#~ msgstr "Tous les auteurs et autrices"
+
+#~ msgid "Popular Authors"
+#~ msgstr "Les auteurs/autrices populaires"
+
+#~ msgid "Search Authors"
+#~ msgstr "Rechercher des auteurs/autrices"
+
+#~ msgctxt "taxonomy singular name"
+#~ msgid "Author"
+#~ msgstr "Auteur/autrice"
+
+#~ msgctxt "taxonomy general name"
+#~ msgid "Authors"
+#~ msgstr "Auteurs/autrices"
+
+#~ msgid "Page"
+#~ msgstr "Page"
+
+#~ msgid "Post"
+#~ msgstr "Publication"
+
+#~ msgid "Post does not exist"
+#~ msgstr "La publication n’existe pas"
+
+#~ msgid "You do not have necessary permissions to complete this action."
+#~ msgstr "Vous n’avez pas les droits nécessaires pour effectuer cette action."
+
+#~ msgid "Cheatin&#8217; uh?"
+#~ msgstr "Une mauvaise manipulation ?"
+
+#~ msgid "Please correct your form errors below and try again."
+#~ msgstr ""
+#~ "Veuillez corriger les erreurs de votre formulaire ci-dessous et réessayer."
+
+#~ msgid "Configure"
+#~ msgstr "Configurer"
+
+#~ msgid "Updated %d authors"
+#~ msgstr "%d auteurs et autrices ont été mis à jour"
+
+#~ msgid "No authors were updated"
+#~ msgstr "Aucun auteur ou autrice n’a été mis à jour"
+
+#~ msgid "Convert into guest author"
+#~ msgstr "Convertir en auteur/autrice invité(e)"
+
+#~ msgid "Update data from mapped user"
+#~ msgstr "Mettre à jour les données depuis le compte mappé"
+
+#~ msgid ""
+#~ "You don’t have to choose a Mapped User. Leave this choice blank and you "
+#~ "can create a Guest Author with no WordPress account."
+#~ msgstr ""
+#~ "Vous n’êtes pas obligé de choisir un utilisateur/utilisatrice mappé. "
+#~ "Laissez ce choix vide et vous pouvez créer un auteur/une autrice invité "
+#~ "sans aucun compte WordPress."
+
+#~ msgid "Mapped User (optional)"
+#~ msgstr "Utilisateur/utilisatrice mappé (facultatif)"
+
+#~ msgid "Select a user"
+#~ msgstr "Veuillez sélectionner un utilisateur/une utilisatrice"
+
+#~ msgid "Remove this image"
+#~ msgstr "Supprimer cette image"
+
+#~ msgid "Select image"
+#~ msgstr "Selectionner une image"
+
+#~ msgid "Biographical Info"
+#~ msgstr "Renseignements biographiques"
+
+#~ msgid "Website"
+#~ msgstr "SIte"
+
+#~ msgid "Last Name"
+#~ msgstr "Nom"
+
+#~ msgid "First Name"
+#~ msgstr "Prénom"
+
+#~ msgid "Mapped User"
+#~ msgstr "Utilisateur/utilisatrice mappé"
+
+#~ msgid "Edit Author Profile"
+#~ msgstr "Modifier le profil de l’auteur/autrice"
+
+#~ msgid "Edit Author"
+#~ msgstr "Modifier l’auteur/autrice"
+
+#~ msgid "Edit User"
+#~ msgstr "Modifier le compte"
+
+#~ msgid "Guest Author"
+#~ msgstr "Auteur/autrice invitée"
+
+#~ msgid "User"
+#~ msgstr "Compte"
+
+#~ msgid "Email"
+#~ msgstr "E-mail"
+
+#~ msgid ""
+#~ "No post ID provided for Authors_Iterator constructor. Are you not in a "
+#~ "loop or is $post not set?"
+#~ msgstr ""
+#~ "Aucun ID de publication n’est fourni pour le constructeur "
+#~ "d’Authors_Iterator. N’êtes-vous pas dans une boucle ou $post n’est-il pas "
+#~ "défini ?"
+
+#~ msgid "Author: %s"
+#~ msgstr "Auteur/autrice : %s"
+
+#~ msgid "Search for an author"
+#~ msgstr "Rechercher un auteur/autrice"
+
+#~ msgid "Co-Authors Plus must be installed and active."
+#~ msgstr "Co-Authors Plus doit être installée et active."
+
+#~ msgid "Title"
+#~ msgstr "Titre"
+
+#~ msgid "Multiple Authors"
+#~ msgstr "Auteurs/autrices multiples"
+
+#~ msgid "Display a list of authors for the current post."
+#~ msgstr ""
+#~ "Afficher une liste d’auteurs ou d‘autrices pour la publication en cours."
+
+#~ msgid "Authors"
+#~ msgstr "Auteurs/autrices"
